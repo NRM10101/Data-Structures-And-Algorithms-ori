@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Lab7" targetName="Lab7" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a67fee4-1018-4d5b-9e3c-c2c072404198" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/.idea/HackerRank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/BinarySearch/.idea/BinarySearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/BinaryTree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/BinaryTree/.idea/BinaryTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/BinaryTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/BinaryTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/BinaryTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/BinaryTree/BinaryTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/BinaryTree/BinaryTree.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/LinekedList/LinkedList/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/gameOfTwoStack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/gameOfTwoStack/.idea/gameOfTwoStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/gameOfTwoStack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/gameOfTwoStack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/gameOfTwoStack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/lab03/selectionsort1/.idea/selectionsort1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/lab4/.idea/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/lab5/.idea/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../courswork/recursion/.idea/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../takehome assignment/02/.idea/02.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="2OxnZfI16NMmao8cgmh8wqvOrnO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Lab7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab7" TARGET_NAME="Lab7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab7" RUN_TARGET_NAME="Lab7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a67fee4-1018-4d5b-9e3c-c2c072404198" name="Changes" comment="" />
+      <created>1682511157663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682511157663</updated>
+      <workItem from="1682511159611" duration="10476000" />
+      <workItem from="1682586563318" duration="1468000" />
+      <workItem from="1683034589824" duration="150000" />
+      <workItem from="1683034766703" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

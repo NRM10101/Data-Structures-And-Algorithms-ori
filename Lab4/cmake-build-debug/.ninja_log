@@ -1,0 +1,5 @@
+# ninja log v5
+3	680	7012676813399135	CMakeFiles/Lab4.dir/main.cpp.obj	1ab1e0bbe8a30a65
+681	904	7012676815619080	Lab4.exe	9b88dbec98fb41cc
+6	401	7011988324979033	CMakeFiles/Lab4.dir/Recusive_merge_method.cpp.obj	63d5f90b1ad52e1b
+0	171	7018646787808282	build.ninja	2fbf33c672e95a30

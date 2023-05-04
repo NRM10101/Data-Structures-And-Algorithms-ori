@@ -1,0 +1,5 @@
+# ninja log v5
+1	653	7042145217731582	CMakeFiles/Lab7.dir/BST.cpp.obj	51b0d2cc52adf887
+23	632	7042889269660517	CMakeFiles/Lab7.dir/main.cpp.obj	c17c27ce88aff597
+1	463	7042897630060976	build.ninja	e53a106e3c3e6939
+632	788	7042889271188623	Lab7.exe	b5b4a8e3ab00b79e
