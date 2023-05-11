@@ -30,6 +30,7 @@ void heapSort(int arr[], int n)
     for(int i=n/2-1;i>=0;i--) {
         heapify(arr, n, i);
     }
+
     // extracting elements from heap one by one
     for(int leaf=n-1;leaf>0;leaf--){
         int max_val=arr[0];
