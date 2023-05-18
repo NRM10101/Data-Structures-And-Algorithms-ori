@@ -1,0 +1,3 @@
+D:/MORA/Acedemic/semester 2/Data Structures and Algorithms/in_class_labs/Lab10/cmake-build-debug/CMakeFiles/Lab10.dir
+D:/MORA/Acedemic/semester 2/Data Structures and Algorithms/in_class_labs/Lab10/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MORA/Acedemic/semester 2/Data Structures and Algorithms/in_class_labs/Lab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
