@@ -52,7 +52,8 @@ void dijkstra(vector<vector<int>> &graph,int soursVertex){
         cout<<"Minimum time taken From "<<soursVertex<<" to " <<i<<" is "<<times[i]<<endl;
         totalTime+=times[i];
     }
-    cout<<"Average Time Taken : "<<totalTime/5;
+    float averageTime=(float)totalTime/5;
+    printf("Average Time Taken : %.2f",averageTime);
 }
 int main() {
     vector<vector<int>> graph={{0,10,0,0,15,5},
